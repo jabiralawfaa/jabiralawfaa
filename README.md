@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, my name is Rusydi Jabir Alawfa. I’m a passionate Frontend Web Developer and currently a university student majoring in [Your Major/Field of Study]. I enjoy creating intuitive and visually appealing user interfaces while maintaining clean and efficient code.<br><br>In my free time, I love exploring new technologies, contributing to open-source projects, and sharing knowledge with the developer community. My journey as a student allows me to combine my academic learning with practical projects to keep growing as a developer.<br><br>Key Interests:<br> ⚙ Web Development (React, TailwindCSS, and more)<br> 🎍 UI/UX Design<br> 🧠 Problem Solving<br> 📚 Continuous Learning<br><br>Let’s build something amazing together! 🚀
+Hi, my name is Rusydi Jabir Alawfa. I’m a passionate Frontend Web Developer and currently a university student majoring in Software Engineer at Politeknik Negeri Banyuwangi. I enjoy creating intuitive and visually appealing user interfaces while maintaining clean and efficient code.<br><br>In my free time, I love exploring new technologies, contributing to open-source projects, and sharing knowledge with the developer community. My journey as a student allows me to combine my academic learning with practical projects to keep growing as a developer.<br><br>Key Interests:<br> ⚙ Web Development (React, TailwindCSS, and more)<br> 🎍 UI/UX Design<br> 🧠 Problem Solving<br> 📚 Continuous Learning<br><br>Let’s build something amazing together! 🚀
 
 ## 🌐 Socials:
 
