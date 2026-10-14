@@ -1,3 +1,9 @@
+<a id="intro" name="intro"></a>
+
+<div align="center">
+  <img src="resource/hero-dark.gif" width="880" alt="Animated editorial hero card introducing Rusydi Jabir Al-Awfa, software developer and graphic designer" />
+</div>
+
 <p align="center"><sub>PORTFOLIO — INDEX 2026 &nbsp;·&nbsp; INDONESIA · GMT+7</sub></p>
 
 <h1 align="center">Rusydi Jabir Al-Awfa</h1>
@@ -12,23 +18,11 @@
   <a href="#contact">Contact</a>
 </p>
 
----
-
-<a id="intro" name="intro"></a>
-## 01 — Intro
-
-<div align="center">
-  <img src="resource/hero-dark.gif" width="700" alt="Animated editorial hero card introducing Rusydi Jabir Al-Awfa, software developer and graphic designer" />
-</div>
-
-<p align="center">Frontend-leaning developer with a designer's eye. I design it, then I ship it.</p>
-
 > <b>64</b> public repos &nbsp;·&nbsp; <b>14</b> followers &nbsp;·&nbsp; building on GitHub since <b>2024</b> &nbsp;·&nbsp; based in <b>Indonesia (GMT+7)</b> &nbsp;·&nbsp; <b>open to work</b>
 
 ---
 
 <a id="about" name="about"></a>
-## 02 — About
 
 <div align="center">
   <img src="resource/about-dark.gif" width="700" alt='Animated dark about-card: "Code meets Design" with a short bio and profile facts' />
@@ -46,7 +40,6 @@ Software developer and graphic designer based in Indonesia. I work where clean c
 ---
 
 <a id="work" name="work"></a>
-## 03 — Selected Work
 
 <div align="center">
   <img src="resource/work-dark.gif" width="700" alt="Animated dark projects-index card listing selected work with tech stacks and years" />
@@ -73,7 +66,6 @@ More experiments and learning builds — `dicoding-story`, `citycare-app`, `note
 ---
 
 <a id="stack" name="stack"></a>
-## 04 — Stack
 
 <div align="center">
   <img src="resource/stack-dark.gif" width="700" alt="Animated dark tech-stack card listing frontend, backend, database and tooling with a scrolling marquee" />
@@ -92,7 +84,6 @@ Most used across ~55 non-fork repos: JavaScript (18) · Dart (12) · HTML (8) ·
 ---
 
 <a id="toolkit" name="toolkit"></a>
-## 09 — Toolkit
 
 <div align="center">
   <img src="resource/toolkit-dark.gif" width="700" alt="Animated dark capabilities card grouping skills into Build, Design and Explore columns" />
@@ -107,7 +98,6 @@ Most used across ~55 non-fork repos: JavaScript (18) · Dart (12) · HTML (8) ·
 ---
 
 <a id="contact" name="contact"></a>
-## 10 — Contact
 
 <div align="center">
   <img src="resource/contact-light.gif" width="700" alt='Animated dark contact card with "Let's make something" headline and email, GitHub, LinkedIn links' />
